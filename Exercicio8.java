@@ -23,7 +23,7 @@ public class exercicio8 {
       
       n4= (n2*n3)/nl;
        
-       System.out.println ("N2 x N3 / Nl = " + n4);
+       System.out.println ("n2 x n3 / nl = " + n4);
     }
 }
 
